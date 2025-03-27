@@ -6,7 +6,7 @@ const Input = ({ label, textarea, ...props }) => {
   return (
     <p className="flex flex-col my-4 gap-1">
       <label htmlFor="" className="text-sm font-bold uppercase text-stone-500">
-        Title
+        {label}
       </label>
       {textarea ? (
         <textarea className={classes} {...props} />
