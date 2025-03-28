@@ -42,14 +42,10 @@ The app will be available at **http://localhost:3000/**
 - 📂 **React Portals** for modals/popups
 
 ## 📸 Screenshots
-You can add screenshots by uploading them to the `/screenshots` directory and referencing them here using Markdown syntax:
+https://github.com/AqibNiazi/project-management-app/blob/main/screenshots/Front_Page.png
+https://github.com/AqibNiazi/project-management-app/blob/main/screenshots/Add_Project_Page.png
+https://github.com/AqibNiazi/project-management-app/blob/main/screenshots/Add_Task_Page.png
 
-```
-![Project Dashboard](./screenshots/dashboard.png)
-![Task Management](./screenshots/task-management.png)
-```
-
-Make sure to replace the filenames with the actual image paths.
 
 ## 📌 Future Improvements
 - ✅ Persistent storage using LocalStorage or a Database
