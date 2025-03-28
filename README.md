@@ -42,10 +42,9 @@ The app will be available at **http://localhost:3000/**
 - 📂 **React Portals** for modals/popups
 
 ## 📸 Screenshots
-https://github.com/AqibNiazi/project-management-app/blob/main/screenshots/Front_Page.png
-https://github.com/AqibNiazi/project-management-app/blob/main/screenshots/Add_Project_Page.png
-https://github.com/AqibNiazi/project-management-app/blob/main/screenshots/Add_Task_Page.png
-
+![Project Dashboard](https://github.com/AqibNiazi/project-management-app/blob/main/screenshots/Front_Page.png)
+![Add Project](https://github.com/AqibNiazi/project-management-app/blob/main/screenshots/Add_Project_Page.png)
+![Task Management](https://github.com/AqibNiazi/project-management-app/blob/main/screenshots/Add_Task_Page.png)
 
 ## 📌 Future Improvements
 - ✅ Persistent storage using LocalStorage or a Database
