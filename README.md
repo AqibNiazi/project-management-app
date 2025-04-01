@@ -28,10 +28,10 @@ A simple **Project Management Application** built using **React.js** to strength
    npm install
    ```
 
-### ▶️ Run the App
+4. ### ▶️ Run the App
 Start the development server:
 ```bash
-npm start
+npm run dev
 ```
 
 The app will be available at **http://localhost:3000/**
@@ -51,11 +51,6 @@ The app will be available at **http://localhost:3000/**
 - 🎨 Improved UI/UX
 - 🔔 Notifications for actions
 
-## 📜 License
-This project is open-source and available under the **MIT License**.
-
----
-
 ### 🔗 Connect with Me
-[GitHub](https://github.com/AqibNiazi) | [LinkedIn](https://www.linkedin.com/in/maqibjaved/) | [Facebook](https://www.facebook.com/muhammadaqib.javed.71)
+[GitHub](https://github.com/AqibNiazi) | [LinkedIn](https://www.linkedin.com/in/maqibjaved/) | [Facebook](https://www.facebook.com/muhammadaqib.javed.71) | [Gmail](aqibjaved5201@gmail.com)
 
